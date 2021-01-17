@@ -12,7 +12,7 @@ namespace Metodlar
             
         }
 
-        public void Ekle2(string urunAdi, string aciklama, int id)
+        public void Ekle2(string urunAdi, string aciklama, int id, int fiyati)
         {
             Console.WriteLine("Sepete Eklendi");
 
